@@ -1,0 +1,116 @@
+@media screen and (max-width: 1024px){
+    html{
+        font-size: 50%;
+    }
+    .container{
+        padding: 0 60px;
+    }
+    .container img{
+        width: 485px;
+        margin-left: 30px;
+        margin-bottom: 3.0rem;
+        
+    }
+
+    .container p{
+        font-size: 1.8rem;
+        margin-bottom: 2.0rem;
+    }
+
+
+    .container a{
+            right: 14rem;
+    }
+}
+
+
+@media screen and (max-width: 700px){
+    html{
+        font-size: 50%;
+    }
+
+    .container{
+    
+        text-align: center;
+        width: 60%;
+        padding: 0 60px;
+
+    }
+
+    .container img{
+        width: 360px;
+        
+        text-align: center;
+    }
+
+    .container p{
+        font-size: 1.3rem;
+        line-height: 15px;
+        text-align: center;
+
+        margin-left: 35px ;
+        
+        
+
+    }
+
+    .container a{
+        right: -3.0rem;
+        text-align: center;
+        padding: 15px;
+    }
+
+    .img-principal{
+        width: 40%;
+    }
+}
+
+@media screen and (max-width: 414px){
+    html{
+        font-size: 50%;
+    }
+    header{
+        width: 100%;
+        gap: 30px;
+        padding: 2.0rem;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    nav{
+        margin-left: 17px;
+    }
+   
+    main{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+   
+    .container{
+        
+        width: 100%;
+        align-items:center ;
+        justify-content: center;
+    }
+    .container img{
+        margin-right: 4rem;
+        width: 340px;
+    }
+
+    .container p{
+        font-size: 1.5rem;
+        margin-left: 0px;
+        text-align: center;
+    }
+
+    .container a{
+        right: -2px;
+        margin-top: 0.8rem;
+    }
+
+    .img-principal{
+        width: 60%;
+    }
+}
