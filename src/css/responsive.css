@@ -112,7 +112,7 @@
         width: 100%;
         align-items:center ;
         justify-content: center;
-        background-color: 
+        
     }
     .container img{
         margin-right: 4rem;
@@ -133,6 +133,6 @@
     .img-principal{
         margin-top: 2.0rem;
         width: 60%;
-        background-color: 
+         
     }
 }
